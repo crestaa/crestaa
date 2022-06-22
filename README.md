@@ -1,5 +1,5 @@
 - 📚 Computer Science student - University of Bologna
 - ☕ Coffee powered
 - 📍 Italy
-- 📫 <a href="mailto:gabrielecrestanello01@gmail.com">E-mail me</a> or <a href="https://gabrielecrestanello.it">go to my website</a>
+- 📫 <a href="mailto:gabrielecrestanello01@gmail.com">E-mail me</a>
 - 💻 <a href="https://www.linkedin.com/in/gabriele-crestanello/">My linkedin profile</a>
