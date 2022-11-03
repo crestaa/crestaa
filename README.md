@@ -1,5 +1,4 @@
 - 📚 Computer Science student - University of Bologna
-- 🪄 Photogrammetry newbie
 - 📍 Italy
 - 📫 <a href="mailto:gabrielecrestanello01@gmail.com">E-mail me</a>
 - 💻 <a href="https://www.linkedin.com/in/gabriele-crestanello/">My linkedin profile</a>
