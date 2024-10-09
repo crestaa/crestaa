@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Gabriele
 
 ## About Me
-- 📚 M. Sc. Student @ UniPD
+- 📚 M. Sc. Student, Computer Science @ UniPD
 - 📍 Based in Italy
 - 🔬 Passionate about cutting-edge technologies and their applications
 
